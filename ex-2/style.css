@@ -1,1 +1,32 @@
-/* Start coding here */
+
+#outer {
+    box-sizing: border-box ;
+    border: 16px solid lightgray;
+    width: 100%;
+    height: 100%;
+    
+}
+#second { 
+    box-sizing: border-box ;
+    border: 16px solid black;
+    width: 100%;
+    height: 100%;
+}
+#third {
+    box-sizing: border-box ;
+    border: 24px solid crimson;
+    width: 100%;
+    height: 100%;
+}
+#fourth {
+    box-sizing: border-box ;
+    justify-items: center;
+    background-color: khaki;
+    width: 100%;
+    height: 100vh;
+}
+h1{
+    display: inline-block;
+    margin-top: 30px ;
+
+}
