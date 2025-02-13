@@ -1,1 +1,15 @@
-/* Start coding here */
+.header{
+    background-color: #8aa0af;
+    color: #2b3a42;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.box{
+    background-color: #dfe6eb;
+    border: 2px solid #2b3a42;
+    padding: 15px;
+    margin: 20px;
+    width: 700px;
+}
